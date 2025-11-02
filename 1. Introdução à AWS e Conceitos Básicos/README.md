@@ -1,4 +1,4 @@
-# Módulo 1: Introdução à AWS e Conceitos Básicos*
+# Módulo 1: Introdução à AWS e Conceitos Básicos
 
 **Visão Geral**
 
